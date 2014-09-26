@@ -23,3 +23,9 @@ FPGA programming is not like normal programming -- parallelism is easy, but beca
 FPGAs are not the fastest you can get.  Traditionally, you start with FGPAs then transition to ASICs for faster speeds and smaller sizes (less overhead).  But FPGAs are the middle step -- with costs/consequences much lower than ASICs, most companies (or so when I was a graduate student) use this as their proving grounds.
 
 Are you ready to take the next step in Hardware Path?
+
+
+# References
+
+FPGA Book 1:
+http://www.altera.com/literature/misc/FPGAs_For_Dummies_eBook.pdf
